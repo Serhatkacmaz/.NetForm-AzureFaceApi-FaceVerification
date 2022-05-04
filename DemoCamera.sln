@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoCamera", "DemoCamera\DemoCamera.csproj", "{2321E449-6060-473C-9615-39E23ECCB1BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2321E449-6060-473C-9615-39E23ECCB1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2321E449-6060-473C-9615-39E23ECCB1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2321E449-6060-473C-9615-39E23ECCB1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2321E449-6060-473C-9615-39E23ECCB1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F564CF72-A85D-4A54-8AEB-21D89C795D3B}
+	EndGlobalSection
+EndGlobal
