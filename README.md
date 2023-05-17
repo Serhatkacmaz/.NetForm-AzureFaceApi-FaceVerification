@@ -1,4 +1,4 @@
-# .Net form Azure Face Api, instant face recognition
+# .Net Form Azure Face Api, instant face recognition
 
 - This application uses the face api in azure.
 - The person who enters the camera angle is analyzed thanks to the api.
